@@ -1,0 +1,7 @@
+*.R linguist-detectable=true
+*.md linguist-detectable=false
+*.Rmd linguist-detectable=false
+*.html linguist-detectable=false
+*.pdf linguist-detectable=false
+*.bib linguist-detectable=false
+*.csv linguist-detectable=false
